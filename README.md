@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Ruja%20Dhoju&fontSize=52&fontColor=00E5FF" width="100%" alt="Ruja Dhoju">
 
-<h3 align="center">🛡️ Cybersecurity & Digital Forensics Student</h3>
+<h3 align="center">💻 Cybersecurity & Digital Forensics Student</h3>
 
 <p align="center">
-🔐 VAPT & Security Testing • 🌐 Networking • 🔍 Digital Forensics • 💻 Software Development
+🔐 Cybersecurity • 🌐 Networking • 💻 Web Development • 📚 Continuous Learning
 </p>
 
 <p align="center">
@@ -16,64 +16,54 @@
 
 # 🧑‍💻 About Me
 
-🛡️ Cybersecurity & Digital Forensics Student
-🔐 Exploring Vulnerability Assessment & Penetration Testing
-🧪 Interested in Security Testing & Quality Assurance
-🌐 Exploring Networking & Network Security
-🔎 Developing knowledge in Digital Forensics & DFIR
-🐧 Working with Linux & Kali Linux
-🌐 Exploring Web Application Security
-💻 Building Cybersecurity & Software Projects
-📊 Interested in Security Analysis & Vulnerability Reporting
-📚 Continuously learning emerging security technologies
+💻 Cybersecurity & Digital Forensics Student
+🎓 Studying BSc (Hons) Cyber Security & Digital Forensics
+🌐 Learning Computer Networks & Network Security
+🐧 Exploring Linux and Kali Linux
+💻 Developing web and software projects
+🗄️ Working with databases and SQL
+🔐 Learning cybersecurity concepts and security tools
+🧪 Exploring software testing and security testing
+📚 Interested in practical technology and cybersecurity
+🚀 Continuously developing my technical skills
 
 ---
 
 # 🎯 My Mission
 
-My goal is to develop strong practical skills in **cybersecurity, vulnerability assessment, security testing, networking, digital forensics, and software development**.
+My goal is to build a strong foundation in **cybersecurity, networking, programming, and digital forensics** through academic learning and practical projects.
 
-I aim to understand how systems and applications work, identify security weaknesses in **authorized and controlled environments**, investigate digital evidence, and build more secure and reliable software systems.
-
-Through practical projects, laboratory work, continuous learning, and security research, I am working toward becoming a skilled cybersecurity professional.
+I am interested in understanding how technology works, developing useful software, exploring cybersecurity concepts, and continuously improving my technical knowledge.
 
 ---
 
-# 🔐 Focus Areas
+# 🔐 Areas of Learning
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛡️ VAPT & Cybersecurity
+### 🛡️ Cybersecurity
 
-* Vulnerability Assessment
-* Penetration Testing
-* Web Application Security
-* Network Security Testing
-* Reconnaissance & Enumeration
-* OWASP Concepts
-* Authentication & Authorization Testing
-* Security Misconfiguration
-* Vulnerability Identification
-* Security Reporting
+* Cybersecurity Fundamentals
+* Basic Security Concepts
+* Security Awareness
+* Basic Vulnerability Concepts
+* Introduction to Web Security
+* Security Tools
 
 </td>
 
 <td width="50%">
 
-### 🧪 QA & Security Testing
+### 🌐 Networking
 
-* Functional Testing
-* Security Testing
-* Test Case Design
-* Bug Identification
-* Bug Reporting
-* Web Application Testing
-* API Testing
-* Software Quality Assurance
-* Test Planning
-* Documentation
+* Computer Networks
+* TCP/IP Fundamentals
+* OSI Model
+* IP Addressing
+* Basic Network Configuration
+* Network Security Fundamentals
 
 </td>
 </tr>
@@ -81,93 +71,7 @@ Through practical projects, laboratory work, continuous learning, and security r
 <tr>
 <td width="50%">
 
-### 🌐 Networking & Network Security
-
-* TCP/IP
-* OSI Model
-* IP Addressing & Subnetting
-* DNS & DHCP
-* Routing & Switching
-* Network Troubleshooting
-* Network Monitoring
-* Packet Analysis
-* Traffic Analysis
-* Network Security
-
-</td>
-
-<td width="50%">
-
-### 🔍 Digital Forensics & DFIR
-
-* Digital Evidence
-* File & System Analysis
-* Log Analysis
-* Incident Investigation
-* Forensic Artifacts
-* Evidence Handling
-* Basic DFIR Concepts
-* Timeline Analysis
-* Forensic Methodologies
-* Incident Response
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Security Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/WPScan-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Autopsy-4B5563?style=for-the-badge"/>
-
-</p>
-
-### 🔴 Security & Testing
-
-* Nmap
-* Metasploit Framework
-* Burp Suite
-* WPScan
-* Wireshark
-* Autopsy
-
-### 🌐 Networking
-
-* Cisco Packet Tracer
-* Wireshark
-* Nmap
-* Netcat
-* Network monitoring & analysis tools
-
----
-
-# 💻 Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,mysql,html,css,js,python,cs,php,vscode,vmware" />
-
-</p>
-
----
-
-# 👩‍💻 Programming & Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,php,bash" />
-
-</p>
-
-### Programming
+### 💻 Programming & Development
 
 * Python
 * C#
@@ -175,32 +79,90 @@ Through practical projects, laboratory work, continuous learning, and security r
 * HTML
 * CSS
 * PHP
-* Bash
+* Web Development
+
+</td>
+
+<td width="50%">
+
+### 🔍 Digital Forensics
+
+* Introduction to Digital Forensics
+* Digital Evidence
+* Basic File Analysis
+* Basic System Investigation
+* Introduction to DFIR
+* Forensic Concepts
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tools & Technologies
+
+### 🔐 Cybersecurity & Networking
+
+<p>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/WPScan-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
+
+### 🐧 Operating Systems
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+---
+
+# 💻 Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,php,mysql,git,github,vscode,linux,windows" />
+
+</p>
+
+---
+
+# 👩‍💻 Programming
+
+### Languages
+
+* Python
+* C#
+* JavaScript
+* HTML
+* CSS
+* PHP
 
 ### Development
 
 * Web Development
 * Database Development
-* Secure Coding
-* Software Testing
-* UI/UX Development
-* Full-Stack Development
+* Basic Software Development
+* UI Development
+* Secure Coding Fundamentals
 
 ---
 
 # 🎯 Areas of Interest
 
-🛡️ Cybersecurity
-🔐 Vulnerability Assessment & Penetration Testing
-🧪 Security & Software Testing
-🌐 Networking & Network Security
+💻 Cybersecurity
+🌐 Computer Networking
 🔍 Digital Forensics
-🚨 Incident Response
-🌐 Web Application Security
-🐧 Linux & Kali Linux
-📡 Network Traffic Analysis
-💻 Secure Software Development
-📚 Cybersecurity Research
+🐧 Linux
+🌐 Web Development
+🗄️ Databases
+🧪 Software Testing
+🔐 Information Security
+📚 Technology & Continuous Learning
 
 ---
 
@@ -210,27 +172,25 @@ Through practical projects, laboratory work, continuous learning, and security r
 <tr>
 <td width="50%">
 
-### 🔐 Cybersecurity Projects
+### 💻 Software Projects
 
-* Vulnerability Assessment
-* Security Testing
-* Web Application Security
-* Secure System Development
-* Security Monitoring
-* Security Automation
+* Web Applications
+* Database Projects
+* Programming Projects
+* UI Development
+* Academic Software Projects
 
 </td>
 
 <td width="50%">
 
-### 🔍 Digital Forensics Projects
+### 🛡️ Cybersecurity Projects
 
-* Digital Evidence Analysis
-* File & System Analysis
-* Log Investigation
-* Forensic Artifact Analysis
-* Incident Investigation
-* DFIR Methodologies
+* Cybersecurity Labs
+* Network Security Exercises
+* Security Tool Practice
+* Web Security Practice
+* Security Awareness Projects
 
 </td>
 </tr>
@@ -240,25 +200,23 @@ Through practical projects, laboratory work, continuous learning, and security r
 
 ### 🌐 Networking Projects
 
-* Network Architecture
 * Network Configuration
-* Network Monitoring
-* Traffic Analysis
+* Network Simulation
 * Network Troubleshooting
-* Network Security
+* Packet Analysis
+* Networking Labs
 
 </td>
 
 <td width="50%">
 
-### 💻 Software Projects
+### 🔍 Digital Forensics
 
-* Web Development
-* Database Systems
-* Secure Coding
-* Software Testing
-* UI/UX Development
-* Full-Stack Applications
+* Digital Forensics Labs
+* Basic Evidence Analysis
+* File Analysis
+* System Investigation
+* Forensics Coursework
 
 </td>
 </tr>
@@ -266,65 +224,18 @@ Through practical projects, laboratory work, continuous learning, and security r
 
 ---
 
-# 🔬 Research & Learning
-
-### 🛡️ Cybersecurity
-
-* Vulnerability Assessment
-* Penetration Testing
-* Web Application Security
-* Security Testing
-* Threat Detection
-* Security Monitoring
-* Security Automation
-* Vulnerability Reporting
-
-### 🌐 Networking
-
-* Network Security
-* Network Traffic Analysis
-* Network Monitoring
-* Secure Network Architecture
-* Network Troubleshooting
-* Packet Analysis
-* Emerging Network Technologies
-
-### 🔍 Digital Forensics
-
-* Digital Evidence Analysis
-* File System Investigation
-* Log Analysis
-* Forensic Artifacts
-* Incident Response
-* Digital Investigation
-* DFIR Methodologies
-
-### 🧪 Software & QA
-
-* Software Quality Assurance
-* Functional Testing
-* Security Testing
-* Test Case Design
-* Bug Reporting
-* Web Application Testing
-* API Testing
-
----
-
 # 📚 Currently Learning
 
-🔐 Vulnerability Assessment & Penetration Testing
-🧪 Security & Software Testing
-🌐 Network Security
-🐧 Linux & Kali Linux
-🛡️ Web Application Security
-🔴 Metasploit Framework
-🔎 Digital Forensics & DFIR
-📡 Network Traffic Analysis
-🐍 Python for Cybersecurity
-🧰 Security Tools & Automation
-💻 Secure Software Development
-📚 Cybersecurity Research Methodology
+🐍 Python Programming
+💻 C# Programming
+🌐 Web Development
+🌐 Computer Networking
+🐧 Linux Fundamentals
+🔐 Cybersecurity Fundamentals
+🔍 Digital Forensics
+🗄️ SQL & Databases
+🧪 Software Testing
+📚 Security Concepts
 
 ---
 
@@ -356,16 +267,16 @@ Through practical projects, laboratory work, continuous learning, and security r
 
 # 🎯 Goals
 
-🛡️ Build practical cybersecurity projects
-🔐 Develop VAPT & security testing skills
-🔍 Develop Digital Forensics knowledge
-🌐 Build networking and network security projects
-💻 Create secure software applications
-🧪 Improve software testing and QA skills
-📡 Develop stronger network analysis skills
-📚 Continuously expand cybersecurity knowledge
+💻 Build more programming projects
+🌐 Improve networking knowledge
+🛡️ Strengthen cybersecurity fundamentals
+🔍 Learn more about digital forensics
+🐧 Improve Linux skills
+🗄️ Develop stronger database knowledge
+🧪 Improve software testing skills
+📚 Gain more practical technical experience
 🌍 Contribute to open-source projects
-🚀 Grow into a skilled cybersecurity professional
+🚀 Grow as a cybersecurity professional
 
 ---
 
@@ -383,13 +294,13 @@ Through practical projects, laboratory work, continuous learning, and security r
 
 # 💡 Professional Philosophy
 
-> **"Learn how technology works. Understand how it can fail. Build, test, investigate, and secure it."**
+> **"Learn continuously, build practically, and grow through every project."**
 
 ---
 
 <p align="center">
 
-🛡️ Cybersecurity • 🔐 VAPT • 🌐 Networking • 🔍 Digital Forensics • 💻 Development
+💻 Cybersecurity • 🌐 Networking • 🔍 Digital Forensics • 🚀 Development
 
 <br><br>
 
