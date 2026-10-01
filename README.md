@@ -1,58 +1,85 @@
-# Hi 👋, I'm Ruja Dhoju
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Ruja%20Dhoju&fontSize=52&fontColor=00E5FF" width="100%" alt="Ruja Dhoju">
 
-<h3 align="center">🛡️ Cybersecurity & Digital Forensics Student | 🔐 VAPT & Security Testing | 🌐 Networking & Web Security</h3>
+<h3 align="center">🛡️ Cybersecurity & Digital Forensics Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;VAPT+%7C+Penetration+Testing;Security+%26+QA+Testing;Web+%26+Network+Security;Digital+Forensics;Learning+%7C+Testing+%7C+Securing" alt="Typing SVG" />
+🔐 VAPT & Security Testing • 🌐 Networking • 🔍 Digital Forensics • 💻 Software Development
+</p>
+
+<p align="center">
+<a href="https://github.com/dhojuruja-cloud">
+<img src="https://img.shields.io/badge/GitHub-dhojuruja--cloud-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-I'm a **Cybersecurity & Digital Forensics student** interested in **Vulnerability Assessment & Penetration Testing (VAPT), Security Testing, Quality Assurance, Network Security, Web Application Security, and Digital Forensics**.
-
-I enjoy exploring how systems, applications, and networks work, identifying security weaknesses in **authorized and controlled environments**, and continuously developing practical cybersecurity skills.
-
-* 🎓 Studying **BSc (Hons) Cyber Security & Digital Forensics**
-* 🔐 Exploring **Vulnerability Assessment & Penetration Testing**
-* 🧪 Learning **Security Testing & Quality Assurance**
-* 🌐 Exploring **Networking & Network Security**
-* 🐧 Working with **Linux & Kali Linux**
-* 🔴 Learning **Metasploit Framework**
-* 🔎 Exploring **Web Application Security**
-* 🕵️ Developing knowledge in **Digital Forensics & DFIR**
-* 💻 Building **Cybersecurity and Software Projects**
-* 📊 Interested in **Security Analysis and Vulnerability Reporting**
-* 📚 Continuously learning and improving my technical skills
+🛡️ Cybersecurity & Digital Forensics Student
+🔐 Exploring Vulnerability Assessment & Penetration Testing
+🧪 Interested in Security Testing & Quality Assurance
+🌐 Exploring Networking & Network Security
+🔎 Developing knowledge in Digital Forensics & DFIR
+🐧 Working with Linux & Kali Linux
+🌐 Exploring Web Application Security
+💻 Building Cybersecurity & Software Projects
+📊 Interested in Security Analysis & Vulnerability Reporting
+📚 Continuously learning emerging security technologies
 
 ---
 
-## 🔐 Cybersecurity Interests
+# 🎯 My Mission
 
-### 🛡️ VAPT & Penetration Testing
+My goal is to develop strong practical skills in **cybersecurity, vulnerability assessment, security testing, networking, digital forensics, and software development**.
+
+I aim to understand how systems and applications work, identify security weaknesses in **authorized and controlled environments**, investigate digital evidence, and build more secure and reliable software systems.
+
+Through practical projects, laboratory work, continuous learning, and security research, I am working toward becoming a skilled cybersecurity professional.
+
+---
+
+# 🔐 Focus Areas
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ VAPT & Cybersecurity
 
 * Vulnerability Assessment
 * Penetration Testing
 * Web Application Security
 * Network Security Testing
 * Reconnaissance & Enumeration
-* OWASP Top 10
+* OWASP Concepts
 * Authentication & Authorization Testing
 * Security Misconfiguration
 * Vulnerability Identification
-* Security Documentation & Reporting
+* Security Reporting
+
+</td>
+
+<td width="50%">
 
 ### 🧪 QA & Security Testing
 
 * Functional Testing
 * Security Testing
 * Test Case Design
-* Bug Identification & Reporting
+* Bug Identification
+* Bug Reporting
 * Web Application Testing
 * API Testing
 * Software Quality Assurance
-* Test Planning & Documentation
+* Test Planning
+* Documentation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🌐 Networking & Network Security
 
@@ -62,84 +89,230 @@ I enjoy exploring how systems, applications, and networks work, identifying secu
 * DNS & DHCP
 * Routing & Switching
 * Network Troubleshooting
-* Network Security
+* Network Monitoring
 * Packet Analysis
-* Network Traffic Monitoring
+* Traffic Analysis
+* Network Security
 
-### 🕵️ Digital Forensics & DFIR
+</td>
+
+<td width="50%">
+
+### 🔍 Digital Forensics & DFIR
 
 * Digital Evidence
 * File & System Analysis
 * Log Analysis
 * Incident Investigation
-* Basic DFIR Concepts
+* Forensic Artifacts
 * Evidence Handling
+* Basic DFIR Concepts
+* Timeline Analysis
 * Forensic Methodologies
+* Incident Response
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Security Tools
+# 🛠️ Security Tools
 
-### 🔴 Offensive Security
+<p align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/WPScan-000000?style=for-the-badge"/>
-</p>
-
-### 🌐 Network Security
-
-<p>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Autopsy-4B5563?style=for-the-badge"/>
+
 </p>
 
-### 🐧 Operating Systems
+### 🔴 Security & Testing
 
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+* Nmap
+* Metasploit Framework
+* Burp Suite
+* WPScan
+* Wireshark
+* Autopsy
+
+### 🌐 Networking
+
+* Cisco Packet Tracer
+* Wireshark
+* Nmap
+* Netcat
+* Network monitoring & analysis tools
+
+---
+
+# 💻 Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,mysql,html,css,js,python,cs,php,vscode,vmware" />
+
 </p>
 
 ---
 
-## 💻 Languages & Technologies
+# 👩‍💻 Programming & Development
 
-### 👩‍💻 Programming & Web Development
+<p align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,php,bash" />
+
 </p>
 
-### 🗄️ Database
+### Programming
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-</p>
+* Python
+* C#
+* JavaScript
+* HTML
+* CSS
+* PHP
+* Bash
 
-### 🔧 Development & Virtualization
+### Development
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-</p>
+* Web Development
+* Database Development
+* Secure Coding
+* Software Testing
+* UI/UX Development
+* Full-Stack Development
 
 ---
 
-## 🚀 Currently Learning
+# 🎯 Areas of Interest
 
-```text
+🛡️ Cybersecurity
+🔐 Vulnerability Assessment & Penetration Testing
+🧪 Security & Software Testing
+🌐 Networking & Network Security
+🔍 Digital Forensics
+🚨 Incident Response
+🌐 Web Application Security
+🐧 Linux & Kali Linux
+📡 Network Traffic Analysis
+💻 Secure Software Development
+📚 Cybersecurity Research
+
+---
+
+# 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity Projects
+
+* Vulnerability Assessment
+* Security Testing
+* Web Application Security
+* Secure System Development
+* Security Monitoring
+* Security Automation
+
+</td>
+
+<td width="50%">
+
+### 🔍 Digital Forensics Projects
+
+* Digital Evidence Analysis
+* File & System Analysis
+* Log Investigation
+* Forensic Artifact Analysis
+* Incident Investigation
+* DFIR Methodologies
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Networking Projects
+
+* Network Architecture
+* Network Configuration
+* Network Monitoring
+* Traffic Analysis
+* Network Troubleshooting
+* Network Security
+
+</td>
+
+<td width="50%">
+
+### 💻 Software Projects
+
+* Web Development
+* Database Systems
+* Secure Coding
+* Software Testing
+* UI/UX Development
+* Full-Stack Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔬 Research & Learning
+
+### 🛡️ Cybersecurity
+
+* Vulnerability Assessment
+* Penetration Testing
+* Web Application Security
+* Security Testing
+* Threat Detection
+* Security Monitoring
+* Security Automation
+* Vulnerability Reporting
+
+### 🌐 Networking
+
+* Network Security
+* Network Traffic Analysis
+* Network Monitoring
+* Secure Network Architecture
+* Network Troubleshooting
+* Packet Analysis
+* Emerging Network Technologies
+
+### 🔍 Digital Forensics
+
+* Digital Evidence Analysis
+* File System Investigation
+* Log Analysis
+* Forensic Artifacts
+* Incident Response
+* Digital Investigation
+* DFIR Methodologies
+
+### 🧪 Software & QA
+
+* Software Quality Assurance
+* Functional Testing
+* Security Testing
+* Test Case Design
+* Bug Reporting
+* Web Application Testing
+* API Testing
+
+---
+
+# 📚 Currently Learning
+
 🔐 Vulnerability Assessment & Penetration Testing
 🧪 Security & Software Testing
 🌐 Network Security
@@ -150,45 +323,76 @@ I enjoy exploring how systems, applications, and networks work, identifying secu
 📡 Network Traffic Analysis
 🐍 Python for Cybersecurity
 🧰 Security Tools & Automation
-```
+💻 Secure Software Development
+📚 Cybersecurity Research Methodology
 
 ---
 
-## 📂 Featured Areas
+# 📈 GitHub Activity
 
-```text
-🔐 Cybersecurity Projects
-🛡️ VAPT & Security Testing
-🌐 Networking Projects
-🕵️ Digital Forensics
-💻 Web Development
-🧪 QA & Software Testing
-```
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhojuruja-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Ruja GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhojuruja-cloud&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Ruja Top Languages"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dhojuruja-cloud&theme=tokyonight&hide_border=true" height="180" alt="Ruja GitHub Contribution Streak"/>
+
+</p>
+
+### 📊 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhojuruja-cloud&theme=github_dark" width="100%" alt="Ruja GitHub Contribution Activity"/>
+
+</p>
 
 ---
 
-## 📈 GitHub Activity
+# 🎯 Goals
+
+🛡️ Build practical cybersecurity projects
+🔐 Develop VAPT & security testing skills
+🔍 Develop Digital Forensics knowledge
+🌐 Build networking and network security projects
+💻 Create secure software applications
+🧪 Improve software testing and QA skills
+📡 Develop stronger network analysis skills
+📚 Continuously expand cybersecurity knowledge
+🌍 Contribute to open-source projects
+🚀 Grow into a skilled cybersecurity professional
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhojuruja-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Ruja GitHub Stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhojuruja-cloud&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Ruja Top Languages"/>
-</p>
+<a href="https://github.com/dhojuruja-cloud">
+<img src="https://img.shields.io/badge/GitHub-dhojuruja--cloud-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhojuruja-cloud&theme=tokyonight&hide_border=true" height="180" alt="Ruja GitHub Contribution Streak"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 💡 Professional Philosophy
+
+> **"Learn how technology works. Understand how it can fail. Build, test, investigate, and secure it."**
+
+---
 
 <p align="center">
-  <a href="https://github.com/dhojuruja-cloud">
-    <img src="https://img.shields.io/badge/GitHub-dhojuruja--cloud-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
-<p align="center">
-  💡 <b>Learning cybersecurity. Testing systems. Building projects. Securing technology.</b>
+🛡️ Cybersecurity • 🔐 VAPT • 🌐 Networking • 🔍 Digital Forensics • 💻 Development
+
+<br><br>
+
+⭐ **Thanks for visiting my GitHub profile!**
+
 </p>
